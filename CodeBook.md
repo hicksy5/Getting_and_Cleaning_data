@@ -1,4 +1,5 @@
 Codebook for Coursera "Getting and Cleaning data" Assignment.
+Developed by hicksy_5
 
 Raw data (from the UCI Machine Learning Repository) available at:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
