@@ -1,5 +1,7 @@
 This repository contains the R code required to create a normalised feature set for mean, standard deviation and mean frequency features from the "UCI HAR dataset" for the Coursera "Getting and Cleaning Data" course Assignment.
 
+Developed by hicksy_5
+
 The required data can be found at: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and should be unzipped into your assigned working directory.
 
 
